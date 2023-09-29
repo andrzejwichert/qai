@@ -9,6 +9,6 @@ Qiskit is an open-source software development kit (SDK) for working with quantum
 You can find installation instruction for qiskit at the site:
  https://qiskit.org/documentation/getting_started.html
 
-The notebooks use some basic commands and should be compatible with different qiskit versions. One exception is the notebook 23_HybridApproaches-VariationalClassification which uses diffrent libreries in the last example. There are three versions, the version new should run the newes quskit version.
+The notebooks use some basic commands and should be compatible with different qiskit versions. One exception is the notebook 23_HybridApproaches-VariationalClassification (last example in the notebook). There are three versions, the version new should run the newes quskit version.
 
 If you have any questions, pls email me <andreas.wichert@tecnico.ulisboa.pt>
