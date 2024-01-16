@@ -12,7 +12,7 @@ You can find installation instruction for qiskit at the site:
 The notebooks use some basic commands and should be compatible with different qiskit versions, expect the notebook 23_HybridApproaches-VariationalClassification and 17_QuantumKernels. 
 
 The symbol (+) after the name, like  “17_QuantumKernels(+).ipynb” indicates that the algorithm was ported to the newest qiskit version  (now qiskit 0.45.0).
-Check this repository for the newest port of qiskit version. At the end of February 2024, Merch 2024 we will check for the newest qiskit version 1.0. 
+Check this repository for the newest port of qiskit version. At the end of February 2024, March 2024 we will check for the newest qiskit version 1.0. 
 
 i) Instead of .bind_parameters() .assign_parameters() is used, see 
 
