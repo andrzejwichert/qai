@@ -27,7 +27,7 @@ The symbol (-) after the name, like  “23_HybridApproaches-VariationalClassific
 For qiskit version 1.0 go to the directory https://github.com/andrzejwichert/qai_1
 
 There are following changes in qiskit 1.0:
-qiskit.tools.jupyter are deprecated, instead of from qiskit import Aer use from qiskit_aer import Aer, instead or execute() use run() - when using run() decompose() the circuit, for quasi probabilities instead of plot_histogram(counts) use plot_distribution(counts), instead of of bind 
+qiskit.tools.jupyter are deprecated, instead of from qiskit import Aer use from qiskit_aer import Aer, instead or execute() use run() - when using run() decompose() the circuit, for quasi probabilities instead of plot_histogram(counts) use plot_distribution(counts), instead of bind 
 use assign.
 
 
