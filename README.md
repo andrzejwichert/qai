@@ -10,7 +10,9 @@ Qiskit is an open-source software development kit (SDK) for working with quantum
 You can find installation instruction for qiskit at the site:
  https://qiskit.org/documentation/getting_started.html
 
-The notebooks use some basic commands and should be compatible with different qiskit versions, expect the notebook 23_HybridApproaches-VariationalClassification and 17_QuantumKernels. 
+For qiskit version 1.x go to the directory https://github.com/andrzejwichert/qai_1
+
+The notebooks use some basic commands and should be compatible with different qiskit 0.x versions, expect the notebook 23_HybridApproaches-VariationalClassification and 17_QuantumKernels. 
 
 The symbol (+) after the name, like  “17_QuantumKernels(+).ipynb” indicates that the algorithm was ported to the newest qiskit version  (now qiskit 0.45.0 and 0.46.0 with warnings).
 
