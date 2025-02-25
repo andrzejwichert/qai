@@ -11,9 +11,21 @@ You can find installation instruction for qiskit at the site:
  https://qiskit.org/documentation/getting_started.html
 
 ## For Qiskit version 1.x go to the directory https://github.com/andrzejwichert/qai_1
+
+
+For better dependency management, consider using a virtual environments using conda
+
 ------------
 
 ## Qiskit 0.x versions (old)
+
+Use pip to install the desired version. Replace X.Y.Z with the version number you need:
+
+pip install qiskit==X.Y.Z
+
+For exmpla to instal qiskit 0.46:
+
+pip install qiskit==0.46
 
 
 The notebooks use some basic commands and should be compatible with different qiskit 0.x versions, expect the notebook 23_HybridApproaches-VariationalClassification and 17_QuantumKernels. 
